@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**mohamedrahmani95/mohamedrahmani95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI and IoT researcher and developer** building optimized, network-aware, scalable, and cybersecure technologies for smart mobility and autonomous transportation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- Intelligent and secure cyber-physical systems  
+- Autonomous mobility and smart transportation  
+- Federated and distributed learning  
+- IoT security and anomaly detection  
+- Optimization for real-time decision-making
+- AI-based solutions for embedded systems.
+
+---
+
+### 🛠️ Tech & Tools
+- **Languages:** Python, C++, JavaScript  
+- **Frameworks:** PyTorch, TensorFlow, ROS  
+- **Domains:** Embedded systems, Reinforcement learning, Networking  
+
+---
+
+### 📫 Connect with me
+- LinkedIn: [Mohammed Rahmani](https://www.linkedin.com/in/mohamed-rahmani06091995/)
+- Google Scholar: [Mohammed Rahmani](https://scholar.google.com/citations?user=bqGQHYoAAAAJ&hl=fr)
+
+---
+
+### 🚀 Currently
+Exploring advanced AI techniques to enhance autonomy, security, and efficiency in next-generation transportation systems.
+
+---
+
+Thank you for visiting my profile.
